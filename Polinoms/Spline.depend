@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667836065 source:c:\users\michael\desktop\programs\spline\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<cmath>
+

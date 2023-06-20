@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1667836065 source:c:\users\michael\desktop\programs\spline\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<cmath>
+
+1667922543 source:c:\users\michael\desktop\programs\spline1\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<cmath>
+
+1668007388 source:c:\users\michael\desktop\programs\splinerederv\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<cmath>
+
+1668009065 source:c:\users\michael\desktop\task_304958(вар 9)\spline\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<cmath>
+
